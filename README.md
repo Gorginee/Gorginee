@@ -1,4 +1,4 @@
 ### Hi there 👋
-#### This is Gorginee, a junior backend developer, currently using Python most of the time.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-gj)](https://github.com/anuraghazra/github-readme-stats)
 
 
