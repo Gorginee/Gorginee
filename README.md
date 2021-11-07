@@ -15,7 +15,4 @@
 
 - 📫 How to reach me **8@hugj.cn**
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=h-gj&show_icons=true&locale=en&layout=compact" alt="h-gj" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=h-gj&show_icons=true&locale=en" alt="h-gj" /></p>
