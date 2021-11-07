@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [canway](https://www.canway.net/)
 
-- 🌱 I’m currently learning **Go/Gin**
-
 - 👨‍💻 All of my projects are available at [https://github.com/h-gj](https://github.com/h-gj)
 
 - 📝 I regularly write articles on [https://hugaojian.com](https://hugaojian.com)
