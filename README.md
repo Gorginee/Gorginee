@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h-gj" alt="h-gj" /></a> </p>
 
-- 🔭 I’m currently working on [canway](https://www.canway.net/)
-
 - 👨‍💻 All of my projects are available at [https://github.com/h-gj](https://github.com/h-gj)
 
 - 📝 I regularly write articles on [https://hugaojian.com](https://hugaojian.com)
