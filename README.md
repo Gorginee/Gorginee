@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Gorgine</h1>
-<h3 align="center">A passionate backend developer from China</h3>
+<h1 align="center">Hi 👋, I'm Gorgine.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h-gj&label=People%20reached&color=0e75b6&style=flat" alt="h-gj" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h-gj" alt="h-gj" /></a> </p>
 
 - 📫 How to reach me **8@hugj.cn**
 
